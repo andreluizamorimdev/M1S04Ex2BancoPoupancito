@@ -1,4 +1,4 @@
-﻿# M1S04Ex2BancoPoupancito
+﻿# M1S04ExBancoPoupancito
 
 Instruções:
 
